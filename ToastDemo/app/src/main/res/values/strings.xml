@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">ToastDemo</string>
+    <string name="button">Click Me</string>
+    <string name="namelabel">What is your name?</string>
+    <string name="todo">TODO</string>
+    <string name="new_dog">New Dog</string>
+
+</resources>
